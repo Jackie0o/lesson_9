@@ -1,0 +1,19 @@
+/* ====================== CCS Properties Home Work=============================== */
+main img{
+	max-width: 100%;
+}
+.footer {
+	text-align: center;
+	background: #292c36;
+	color: #fff; 
+	padding: 3px;
+}
+.footer h2{
+	display: inline-block;
+	font-size: 25px;
+	padding: 22px;
+}
+.footer img{
+	max-width: 70px;
+	border: 5px solid red;
+}
